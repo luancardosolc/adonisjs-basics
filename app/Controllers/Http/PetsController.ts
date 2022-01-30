@@ -27,6 +27,7 @@ export default class PetsController {
 
   public async destroy({ params, request, response }: HttpContextContract) {
     const pet = await Pet.findOrFail(params.id);
-    return pet.delete();
+    await pet.delete();
+    return pet;
   }
 }
