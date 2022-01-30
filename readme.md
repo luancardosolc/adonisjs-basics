@@ -13,6 +13,11 @@
 -----------------
 </br>
 
+List available commands:
+
+    node ace --help
+</br>
+
 Create controller:
 
     node ace make:controller Pet 
