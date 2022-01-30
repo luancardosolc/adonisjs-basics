@@ -42,6 +42,11 @@ Create Model:
 -----------------
 </br>
 
+Docker create/run the containers (Run inside /docker folder):
+
+    docker-compose up
+</br>
+
 Docker clean up all stopped containers:
 
     docker system prune -a
