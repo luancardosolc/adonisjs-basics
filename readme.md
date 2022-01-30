@@ -15,6 +15,8 @@ Create migration:
 Run migration:
   node ace migration:run
 
+Create Model:
+  node ace make:model Pet
 
 Docker Commands:
 
