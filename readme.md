@@ -4,7 +4,7 @@
 
 </br>
 
-**Available APIs Routes (Just import the file bellow on Postman):**
+**Available APIs Routes (Just import the file bellow inside Postman):**
 -----------------
     AdonisJS Basics.postman_collection.json
 </br>
