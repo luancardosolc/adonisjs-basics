@@ -38,6 +38,11 @@ Create Model:
     node ace make:model Pet
 </br>
 
+**AdonisJs Validator (Validate fields):**
+-----------------
+    https://docs.adonisjs.com/guides/validator/introduction
+</br>
+
 **Docker Commands:**
 -----------------
 </br>
